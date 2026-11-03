@@ -1,0 +1,2 @@
+# BookTrack-A-Console-Based-Digital-System-to-Manage-borrowed-Books-and-Due-Dates-
+BookTrack is a Python-based library management system designed for librarians and first-year BSIT students. It allows students to browse books, submit borrowing requests, and track due dates, while librarians can manage book records, approve requests, and process returns. It aims to make library transactions easier and more organized.
